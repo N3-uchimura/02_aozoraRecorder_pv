@@ -1,7 +1,7 @@
 {
   "name": "aozora-recorder",
   "productName": "aozora-recorder personal",
-  "version": "1.2.2-alpha1",
+  "version": "1.2.2",
   "private": true,
   "description": "personal application for recording aozora books.",
   "main": "build/aozorarecorder.js",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.19.9",
-    "electron": "^38.5.0",
+    "electron": "^43.1.0",
     "electron-builder": "^26.7.0"
   },
   "build": {
